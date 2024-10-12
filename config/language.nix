@@ -246,6 +246,7 @@ in
           nixd.enable = true;
           yamlls.enable = true;
           taplo.enable = true;
+          clang.enable = true;
         };
       };
 
