@@ -247,7 +247,6 @@ in
           yamlls.enable = true;
           taplo.enable = true;
           clangd.enable = true;
-          java.enable = true;
         };
       };
 
